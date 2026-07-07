@@ -15,8 +15,6 @@ import {
   SiApachekafka,
 } from "react-icons/si";
 
-import { MdSyncAlt } from "react-icons/md"; // ActiveMQ replacement
-
 // Lightweight inline icon badges so we don't need an icon-library dependency.
 // Each icon is a simple circular monogram in the brand gold, consistent with
 // the rest of the theme (goldRule, tag, card accents, etc).
