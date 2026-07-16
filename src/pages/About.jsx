@@ -45,7 +45,7 @@ export default function About() {
 
       <div style={styles.card}>
         <div style={styles.cardBody}>
-          <div style={styles.cardName}>Dr. Shivani Gupta (PhD)</div>
+          <div style={styles.cardName}>Dr. Shivani Gupta</div>
           <div style={styles.cardRole}>Director</div>
 
           <div style={styles.infoRow}>
@@ -54,7 +54,7 @@ export default function About() {
           </div>
           <div style={styles.infoRow}>
             <span style={styles.infoLabel}>Email</span>
-            <span style={styles.infoValue}>shivani.gupta@murarisoft.com</span>
+            <span style={styles.infoValue}>softmurari@gmail.com</span>
           </div>
           <div style={styles.infoRow}>
             <span style={styles.infoLabel}>Registered office</span>

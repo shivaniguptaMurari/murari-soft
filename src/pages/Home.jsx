@@ -22,7 +22,7 @@ export default function Home() {
         </div>
         <div style={styles.quickItem}>
           <span style={styles.quickLabel}>Email us</span>
-          <span style={styles.quickValue}>shivani.gupta@murarisoft.com</span>
+          <span style={styles.quickValue}>softmurari@gmail.com</span>
         </div>
       </div>
     </section>
